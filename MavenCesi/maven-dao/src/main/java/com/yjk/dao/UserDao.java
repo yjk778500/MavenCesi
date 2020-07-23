@@ -6,6 +6,7 @@ import com.yjk.pojo.User;
 import com.yjk.pojo.Wan;
 
 public interface UserDao {
+	//在GiyHub页面修改的内容
 	//查询全部
 	public List<User> getlist();
 	
